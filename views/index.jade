@@ -1,0 +1,18 @@
+doctype html
+html
+  head
+    include templates/head.jade
+  body.index
+
+    include templates/header.jade
+
+    div.session
+      div.list-session
+        ul
+        button#add-session 
+          a= __("Ajouter un compte")
+
+    //- scripts
+    include templates/footer.jade
+
+    script(src='/js/index.js')

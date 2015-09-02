@@ -1,0 +1,21 @@
+doctype html
+html
+  head
+    include templates/head.jade
+  body.flux
+
+    include templates/header.jade
+
+    nav.titleAndActions
+      div.buttons.alignRight
+        .title.centered Flux de médias
+
+
+    div.container-flux
+      div.content
+        ul
+
+    //- scripts
+    include templates/footer.jade
+
+    script(src='/js/flux.js')
