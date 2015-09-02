@@ -256,7 +256,7 @@ jQuery(document).ready(function($) {
           video.play();
         },
         function(err) {
-          alert(JSON.stringify(error));
+          alert(JSON.stringify(err));
         }
       );
 
@@ -832,7 +832,7 @@ jQuery(document).ready(function($) {
           },
           setupAudioNodes,
           function(err) {
-            alert(JSON.stringify(error));
+            alert(JSON.stringify(err));
           }
         );
       }
