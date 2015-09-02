@@ -38,9 +38,6 @@ jQuery(document).ready(function($) {
 	//Ajouter une session
 	function addSession(){
 		$("#add-session").on('click', function(){
-
-			console.log("CLICK");
-
 			var newContentToAdd = "<h3 class='popoverTitle'>Add a session</h3><p>Enter a name</p><form onsubmit='return false;' class='add-project'><input class='new-session' placeholder='Session name'></input><input type='submit' class='submit-session'></input></form>";
 			
 			var closeAddProjectFunction = function() {

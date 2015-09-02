@@ -1,6 +1,11 @@
 {
 	"Bibliothèque de médias": "Bibliothèque de médias",
 	"Interface de capture": "Interface de capture",
+	"Ajouter un compte": "Ajouter un compte",
+	"Interface de capture": "Interface de capture",
+	"Bibliothèque de médias": "Bibliothèque de médias",
+	"Publish": "Publish",
+	"Titre": "Titre",
 	"Image": "Image",
 	"Vidéo": "Vidéo",
 	"Stop motion": "Stop motion",
@@ -14,4 +19,5 @@
 	"Ajouter un compte": "Ajouter un compte",
 	"Publish": "Publish",
 	"Titre": "Titre"
+	"mode audio": "mode audio"
 }
