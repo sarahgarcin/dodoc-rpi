@@ -1,2 +1,17 @@
 {
+	"Ajouter un compte": "Ajouter un compte",
+	"Interface de capture": "Interface de capture",
+	"Bibliothèque de médias": "Bibliothèque de médias",
+	"Publish": "Publish",
+	"Titre": "Titre",
+	"Image": "Image",
+	"Vidéo": "Vidéo",
+	"Stop motion": "Stop motion",
+	"Son": "Son",
+	"Enregistrer une photo": "Enregistrer une photo",
+	"Démarrer l'enregistrement d'une vidéo": "Démarrer l'enregistrement d'une vidéo",
+	"mode image": "mode image",
+	"mode vidéo": "mode vidéo",
+	"mode stop motion": "mode stop motion",
+	"mode audio": "mode audio"
 }
